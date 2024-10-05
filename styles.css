@@ -36,10 +36,11 @@ nav ul li a {
     font-weight: 500;
     padding: 10px 15px;
     transition: background-color 0.3s ease;
+    
 }
 
 nav ul li a:hover {
-    background-color: #45a049;
+    background-color: #0f2511;
     border-radius: 5px;
 }
 
@@ -222,3 +223,8 @@ button{
     font-size: 1em;
     transform-origin: 50% 5em;
   }
+  img {
+    width: 500px; /* Sets the width to 500px */
+    height: 300px; /* Sets the height to 300px */
+  }
+  
