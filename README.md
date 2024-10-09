@@ -5,7 +5,7 @@
 # Lost or Found
 
 A web-based platform to help people report and search for lost or found items. This project allows users to submit details of lost or found items, view existing reports, and connect with the individuals who submitted the reports.
-[live link]{https://reportlost.netlify.app/}
+-[live link]{https://reportlost.netlify.app/}
 ## Table of Contents
 
 - [Project Overview](#project-overview)
