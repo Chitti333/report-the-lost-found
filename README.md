@@ -1,7 +1,7 @@
 
 ### **README.md for Lost or Found Project**
 
-```markdown
+```markdown```
 # Lost or Found
 
 A web-based platform to help people report and search for lost or found items. This project allows users to submit details of lost or found items, view existing reports, and connect with the individuals who submitted the reports.
@@ -35,7 +35,7 @@ This project was built using HTML5, CSS, and JavaScript for the frontend. It is 
 - **HTML5**: For structuring the webpage content.
 - **CSS**: For styling the pages and creating responsive designs.
 - **JavaScript**: For handling user interactions and dynamic content updates.
-   ```
+  
 ## Installation
 
 1. Clone the repository:
