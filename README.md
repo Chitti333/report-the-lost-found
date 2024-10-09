@@ -5,7 +5,7 @@
 # Lost or Found
 
 A web-based platform to help people report and search for lost or found items. This project allows users to submit details of lost or found items, view existing reports, and connect with the individuals who submitted the reports.
--[live link]{https://reportlost.netlify.app/}
+-**[live link](https://reportlost.netlify.app/)**
 ## Table of Contents
 
 - [Project Overview](#project-overview)
@@ -85,6 +85,6 @@ Contributions are welcome! If you would like to improve this project, please fol
 6. **Contributing**: Guidelines for contributing to the project.
 7. **License**: License details (you can customize it based on the license you want to use).
 
-### **Contact** : chittithallikaja@gmail.com
-**LinkedIn** : https://www.linkedin.com/in/chittithalli-kaja-a097802a4/
+### **Contact** : [gmail](chittithallikaja@gmail.com)
+[**LinkedIn**](https://www.linkedin.com/in/chittithalli-kaja-a097802a4/)
 
