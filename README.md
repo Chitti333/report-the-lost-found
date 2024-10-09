@@ -35,7 +35,7 @@ This project was built using HTML5, CSS, and JavaScript for the frontend. It is 
 - **HTML5**: For structuring the webpage content.
 - **CSS**: For styling the pages and creating responsive designs.
 - **JavaScript**: For handling user interactions and dynamic content updates.
-
+   ```
 ## Installation
 
 1. Clone the repository:
