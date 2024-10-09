@@ -84,4 +84,7 @@ Contributions are welcome! If you would like to improve this project, please fol
 5. **Usage**: How users can interact with the project.
 6. **Contributing**: Guidelines for contributing to the project.
 7. **License**: License details (you can customize it based on the license you want to use).
-```
+
+### **Contact** : chittithallikaja@gmail.com
+**LinkedIn** : https://www.linkedin.com/in/chittithalli-kaja-a097802a4/
+
